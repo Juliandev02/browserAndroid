@@ -1,0 +1,8 @@
+eu/discordlistforbotsdevel/browser/BuildConfig.java
+ eu.discordlistforbotsdevel.browser.BuildConfig
+eu/discordlistforbotsdevel/browser/MainActivity.java
+ eu.discordlistforbotsdevel.browser.MainActivity
+ eu.discordlistforbotsdevel.browser.MainActivity$1
+ eu.discordlistforbotsdevel.browser.MainActivity$1$1
+ eu.discordlistforbotsdevel.browser.MainActivity$1$2
+ eu.discordlistforbotsdevel.browser.MainActivity$MyWebViewClient
