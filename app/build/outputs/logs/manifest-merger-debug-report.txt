@@ -57,31 +57,35 @@ INJECTED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:2
 	xmlns:android
 		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:2:11-69
 supports-screens
-ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:6:5-12:40
+ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:4:5-10:40
 	android:largeScreens
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:10:9-36
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:8:9-36
 	android:smallScreens
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:9:9-36
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:7:9-36
 	android:normalScreens
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:11:9-37
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:9:9-37
 	android:xlargeScreens
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:12:9-37
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:10:9-37
 	android:resizeable
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:8:9-34
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:6:9-34
 	android:anyDensity
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:7:9-34
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:5:9-34
 uses-permission#android.permission.INTERNET
-ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:14:5-67
+ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:14:22-64
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:14:22-68
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
 		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:15:22-76
-uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:16:5-76
-	android:name
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:16:22-73
 application
 ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:18:5-35:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2730d74d200c17936a122ce975a9aa70\material-1.3.0\AndroidManifest.xml:22:5-20
@@ -95,17 +99,17 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ju
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\07adfc08fe16d3453ab9291511ec05fe\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:21:9-41
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:22:9-41
 	android:roundIcon
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:22:9-54
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:23:9-54
 	android:icon
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:20:9-43
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:24:9-52
+		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:19:9-56
 	android:usesCleartextTraffic
 		ADDED from D:\Projekte\androidBrowserAPI21\app\src\main\AndroidManifest.xml:25:9-44
 activity#eu.discordlistforbotsdevel.browser.MainActivity
