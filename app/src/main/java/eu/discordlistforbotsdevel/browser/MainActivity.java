@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
     ImageFilterButton Home;
 
 
-    String androidAppVersion = "1.1";
+    String androidAppVersion = "1.2.1";
 
     private class MyWebViewClient extends WebViewClient implements OnClickListener {
         @Override
@@ -80,7 +80,7 @@ public class MainActivity extends Activity {
 
                 alertDialog2.setMessage(
                         "Android Browser v" + androidAppVersion + "\n" +
-                                "More functions will comming soon!"
+                                "More functions will coming soon!"
                 );
 
                 AlertDialog.Builder alertDialog3 = new AlertDialog.Builder(MainActivity.this);
