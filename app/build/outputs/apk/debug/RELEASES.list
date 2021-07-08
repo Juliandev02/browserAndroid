@@ -1,0 +1,25 @@
+Package: eu.discordlistforbotsdevel.browser
+Version: 1.0
+Platform: Android
+Platform-Support: =< API 21
+Description: "Simple Android Browser"
+
+
+Package: eu.discordlistforbotsdevel.browser
+Version: 1.1
+Platform: Android
+Platform-Support: =< API 21
+Description: "Simple Android Browser"
+
+
+Package: eu.discordlistforbotsdevel.browser
+Version: 1.2.1
+Platform: Android
+Platform-Support: =< API 21
+Description: "Simple Android Browser"
+
+Package: eu.discordlistforbotsdevel.browser
+Version: 1.2.2-pre-1a
+Platform: Android
+Platform-Support: =< API 21
+Description: "Simple Android Browser"
