@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
     ImageFilterButton Home;
 
 
-    String androidAppVersion = "1.2.2-pre-1a";
+    String androidAppVersion = "1.2.3";
 
     private class MyWebViewClient extends WebViewClient implements OnClickListener {
         @Override
