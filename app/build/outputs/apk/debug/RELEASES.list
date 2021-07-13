@@ -35,3 +35,9 @@ Version: 1.3
 Platform: Android
 Platform-Support: =< API 21
 Description: "Simple Android Browser"
+
+Package: eu.discordlistforbotsdevel.browser
+Version: 1.4
+Platform: Android
+Platform-Support: =< API 21
+Description: "A simple and debloated Android browser based on the Chromium web engine"
