@@ -1,7 +1,7 @@
 package eu.discordlistforbotsdevel.browser;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -10,6 +10,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
 import android.widget.EditText;
+
 import androidx.constraintlayout.utils.widget.ImageFilterButton;
 
 public class MainActivity extends Activity {
@@ -21,6 +22,7 @@ public class MainActivity extends Activity {
     ImageFilterButton Home;
     Button GoBack;
     Button Update;
+
 
     private static class MyWebViewClient extends WebViewClient implements OnClickListener {
 
@@ -37,6 +39,7 @@ public class MainActivity extends Activity {
     }
 
 
+    @SuppressLint("SetJavaScriptEnabled")
     @Override
     public void onCreate(Bundle savedInstanceState) {
 
@@ -50,6 +53,7 @@ public class MainActivity extends Activity {
         Home = (ImageFilterButton)findViewById(R.id.gohome);
         GoBack = (Button)findViewById(R.id.goBack);
         Update = (Button)findViewById(R.id.update);
+
 
         if (Browser.canGoBack()) {
             Browser.goBack();
@@ -77,17 +81,8 @@ public class MainActivity extends Activity {
         });
 
         AppSettings.setOnClickListener(v -> setContentView(R.layout.settings));
-        Browser.setOnClickListener(v -> setContentView(R.layout.settings));
-    }
+        // Browser.setOnClickListener(v -> setContentView(R.layout.settings));
 
-    @Override
-    protected void onActivityResult(int _requestCode, int _resultCode, Intent _data) {
-        super.onActivityResult(_requestCode, _resultCode, _data);
-
-        switch(_requestCode) {
-            default:
-                break;
-        }
     }
 
     @Override
