@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Browser</string>
+    <string name="check_update">Vérifier les mises à jour</string>
+    <string name="author">Auteur</string>
+    <string name="license">Licence</string>
+    <string name="license_text">Pas de licence - Tous droits réservés</string>
+    <string name="search">Recherche</string>
+    <string name="settings">Paramètres</string>
+    <string name="back">Dos</string>
+    <string name="app_version_text">Version du navigateur</string>
+</resources>

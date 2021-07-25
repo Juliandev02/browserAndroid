@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Androidブラウザ</string>
+    <string name="check_update">アップデートの確認</string>
+    <string name="author">著者</string>
+    <string name="license">著者</string>
+    <string name="license_text">ライセンス無し - All rights reserved</string>
+    <string name="search">検索</string>
+    <string name="settings">設定</string>
+    <string name="back">バック</string>
+    <string name="app_version_text">ブラウザのバージョン</string>
+</resources>
