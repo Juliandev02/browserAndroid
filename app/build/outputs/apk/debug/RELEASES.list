@@ -1,43 +1,49 @@
 Package: eu.discordlistforbotsdevel.browser
 Version: 1.0
 Platform: Android
-Platform-Support: =< API 21
+Platform-Support: API 21 and above
 Description: "Simple Android Browser"
 
 
 Package: eu.discordlistforbotsdevel.browser
 Version: 1.1
 Platform: Android
-Platform-Support: =< API 21
+Platform-Support: API 21 and above
 Description: "Simple Android Browser"
 
 
 Package: eu.discordlistforbotsdevel.browser
 Version: 1.2.1
 Platform: Android
-Platform-Support: =< API 21
+Platform-Support: API 21 and above
 Description: "Simple Android Browser"
 
 Package: eu.discordlistforbotsdevel.browser
 Version: 1.2.2-pre-1a
 Platform: Android
-Platform-Support: =< API 21
+Platform-Support: API 21 and above
 Description: "Simple Android Browser"
 
 Package: eu.discordlistforbotsdevel.browser
 Version: 1.2.3
 Platform: Android
-Platform-Support: =< API 21
+Platform-Support: API 21 and above
 Description: "Simple Android Browser"
 
 Package: eu.discordlistforbotsdevel.browser
 Version: 1.3
 Platform: Android
-Platform-Support: =< API 21
+Platform-Support: API 21 and above
 Description: "Simple Android Browser"
 
 Package: eu.discordlistforbotsdevel.browser
 Version: 1.4
 Platform: Android
-Platform-Support: =< API 21
+Platform-Support: API 21 and above
+Description: "A simple and debloated Android browser based on the Chromium web engine"
+
+Package: eu.discordlistforbotsdevel.browser
+Version: 1.5
+Platform: Android
+Platform-Support: API 20 and above
 Description: "A simple and debloated Android browser based on the Chromium web engine"
